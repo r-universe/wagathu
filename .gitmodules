@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "StockDistFit"]
 	path = StockDistFit
 	url = https://github.com/wagathu/stockdistfit
-	shallow = true
-	registered = true
